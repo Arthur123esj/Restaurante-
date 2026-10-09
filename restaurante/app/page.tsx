@@ -70,23 +70,23 @@ export default function Home() {
                 <div className="lista cc">
                   <h3>Comidas da casa</h3>
                   <div className="item">
-                    <span>Bife à milanesa</span>
+                    <span>Bife à milanesa  Preço R$ 25,00</span>
                     <span>01</span>
                   </div>
                   <div className="item">
-                    <span>Almôndegas</span>
+                    <span>Almôndegas  Preço R$ 20,00</span>
                     <span>02</span>
                   </div>
                   <div className="item">
-                    <span>Salsicha com molho</span>
+                    <span>Salsicha com molho  Preço R$ 15,00</span>
                     <span>03</span>
                   </div>
                   <div className="item">
-                    <span>Repolho recheado</span>
+                    <span>Repolho recheado  Preço R$ 12,00</span>
                     <span>04</span>
                   </div>
                   <div className="item">
-                    <span>Panqueca de carne</span>
+                    <span>Panqueca de carne  Preço R$ 18,00</span>
                     <span>05</span>
                   </div>
                 </div>
@@ -108,23 +108,23 @@ export default function Home() {
                 <div className="lista br">
                   <h3>Bebidas da casa</h3>
                   <div className="item">
-                    <span>Chopp</span>
+                    <span>Chopp  Preço R$ 8,00</span>
                     <span>01</span>
                   </div>
                   <div className="item">
-                    <span>Cerveja</span>
+                    <span>Cerveja  Preço R$ 6,00 </span>
                     <span>02</span>
                   </div>
                   <div className="item">
-                    <span>Coca-Cola</span>
+                    <span>Coca-Cola  Preço R$ 5,00</span>
                     <span>03</span>
                   </div>
                   <div className="item">
-                    <span>Licor de frutas alemão</span>
+                    <span>Licor de frutas alemão  Preço R$ 15,00</span>
                     <span>04</span>
                   </div>
                   <div className="item">
-                    <span>Guaraná</span>
+                    <span>Guaraná  Preço R$ 4,00</span>
                     <span>05</span>
                   </div>
                 </div>
@@ -146,23 +146,23 @@ export default function Home() {
                 <div className="lista sm">
                   <h3>Doces da casa</h3>
                   <div className="item">
-                    <span>Floresta Negra</span>
+                    <span>Floresta Negra  Preço R$ 18,00</span>
                     <span>01</span>
                   </div>
                   <div className="item">
-                    <span>Cuca</span>
+                    <span>Cuca  Preço R$ 12,00</span>
                     <span>02</span>
                   </div>
                   <div className="item">
-                    <span>Bolo de maçã</span>
+                    <span>Bolo de maçã  Preço R$ 15,00</span>
                     <span>03</span>
                   </div>
                   <div className="item">
-                    <span>Strudel de maçã</span>
+                    <span>Strudel de maçã  Preço R$ 12,00</span>
                     <span>04</span>
                   </div>
                   <div className="item">
-                    <span>Pudim de leite</span>
+                    <span>Pudim de leite  Preço R$ 10,00</span>
                     <span>05</span>
                   </div>
                 </div>
